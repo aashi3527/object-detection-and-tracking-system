@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.mp4
+videos/
+outputs/
+node_modules/
+frontend/node_modules/
+*.pt
