@@ -1,0 +1,18 @@
+# Python Virtual Environments & Caches
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+
+# Large Model weights & downloads
+backend/*.pt
+backend/sample_bus.jpg
+
+# Node.js modules & build output
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# OS-specific files
+.DS_Store
+Thumbs.db

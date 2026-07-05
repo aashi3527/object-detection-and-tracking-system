@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+ultralytics
+deep-sort-realtime
+opencv-python-headless
+numpy
+python-multipart
+pillow
